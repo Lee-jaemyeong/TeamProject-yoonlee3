@@ -4,7 +4,7 @@
 ## 배포 사이트
 - http://3.39.192.82:8080/
 
-## 팀 깃허브
+## Team GitHub
 - https://github.com/Lee-jaemyeong/team-repository
 
 ### 목차
