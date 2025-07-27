@@ -42,7 +42,7 @@
 ### 담당 기능
 #### 📺 시연 영상
 
-[![Watch the video](https://img.youtube.com/vi/F6DzPczeOM4&t=4s/hqdefault.jpg)](https://www.youtube.com/watch?v=F6DzPczeOM4&t=4s)
+[![Watch the video](https://img.youtube.com/vi/F6DzPczeOM4/hqdefault.jpg)](https://www.youtube.com/watch?v=F6DzPczeOM4&t=4s)
 
 1. 유저,글 CRUD 설계 및 기능 구현
 2. Spring Security를 활용한 로그인 인증 및 기능구현
