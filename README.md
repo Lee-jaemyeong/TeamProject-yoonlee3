@@ -40,7 +40,7 @@
 - GitHub – 소스코드 버전 관리
 
 ### 담당 기능
-#### 📺 시연 영상
+#### 📺 시연 영상 (이미지 클릭시 유튜브로 이동됩니다.)
 
 [![Watch the video](https://img.youtube.com/vi/F6DzPczeOM4/hqdefault.jpg)](https://www.youtube.com/watch?v=F6DzPczeOM4&t=4s)
 
