@@ -60,6 +60,8 @@
 
 ### 데이터 베이스 설계
 
+![Yoonlee3 DB](https://github.com/user-attachments/assets/1e2e1bd1-4ec0-488a-9698-80bafa37e77a)
+
 <hr/>
 
 ### 트러블 슈팅
