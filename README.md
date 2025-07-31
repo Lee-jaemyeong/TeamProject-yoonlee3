@@ -2,7 +2,7 @@
 ![스크린샷_27-7-2025_13048_](https://github.com/user-attachments/assets/05e00f73-9ee7-46c6-b830-4c80146b1eb3)
 
 ## 배포 사이트
-- http://3.39.192.82:8080/
+- [사이트 이동하기](http://3.39.192.82:8080/)
 
 ## Team GitHub
 - [코드 확인하러 가기](https://github.com/Lee-jaemyeong/team-repository)
