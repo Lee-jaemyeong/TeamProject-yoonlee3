@@ -53,28 +53,28 @@
 
 [![Watch the video](https://img.youtube.com/vi/F6DzPczeOM4/hqdefault.jpg)](https://www.youtube.com/watch?v=F6DzPczeOM4&t=4s)
 
-1. 유저,글 CRUD 설계 및 기능 구현
+**1. 유저,글 CRUD 설계 및 기능 구현**
   - JSP와 Spring MVC 구조에 맞춰 유저 및 게시글에 대한 Controller, Service, DAO, View 계층을 분리하여 구현
 ---
 
-2. Spring Security를 활용한 로그인 인증 및 기능구현
+**2. Spring Security를 활용한 로그인 인증 및 기능구현**
   - UserDetailsService를 구현하여 DB의 사용자 정보를 기반으로 인증 처리
   - 비로그인 사용자의 접근 제한, 로그인 상태에 따른 메뉴 표시 등 인가 처리 구현
   - 세션 기반 로그인 유지 및 로그인 실패/성공 핸들링 구현
 ---
 
-3. Kakao login api를 활용한 로그인,로그아웃 기능구현
+**3. Kakao login api를 활용한 로그인,로그아웃 기능구현**
   - 카카오 JavaScript SDK를 이용한 클라이언트 연동과, 백엔드에서는 카카오 OAuth2 인증 토큰 검증 처리
   - 로그아웃 시 세션 초기화 및 카카오 API 연동 로그아웃 처리
 ---
 
-4. Naver mail api를 활용한 비밀번호 찾기 및 변경 기능구현
+**4. Naver mail api를 활용한 비밀번호 찾기 및 변경 기능구현**
   - 사용자가 비밀번호 찾기를 요청하면, 변경 페이지 주소링크를 네이버 SMTP를 통해 메일 발송
   - 메일 인증 후 비밀번호 변경 페이지로 이동 가능하며, 변경된 비밀번호는 암호화하여 저장
   - 토큰을 사용해 링크는 1회 사용이후 폐기처리
 ---
 
-5. 글 공개범위 필터링 구현
+**5. 글 공개범위 필터링 구현**
   - 글 목록 및 상세 조회 시 로그인 사용자와 작성자의 관계에 따라 접근 제한 적용
 
 <hr/>
