@@ -5,7 +5,7 @@
 - [사이트 이동하기](http://3.39.192.82:8080/)
 
 ## Team GitHub
-- [코드 확인하러 가기](https://github.com/Lee-jaemyeong/team-repository)
+- [Team GitHub](https://github.com/Lee-jaemyeong/team-repository)
 
 ### 목차
 - 1️⃣ [프로젝트 개요](#프로젝트-개요)
